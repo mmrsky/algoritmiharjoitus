@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("AlgoritmiHarjoitustyö")]
+[assembly: AssemblyTitle("Algoritmi")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("AlgoritmiHarjoitustyö")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyCompany("HP")]
+[assembly: AssemblyProduct("Algoritmi")]
+[assembly: AssemblyCopyright("Copyright © HP 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("0643a216-7f11-41aa-abca-befaab00f7f7")]
+[assembly: Guid("7884b40a-0980-4890-bc40-5062505bb244")]
 
 // Version information for an assembly consists of the following four values:
 //
